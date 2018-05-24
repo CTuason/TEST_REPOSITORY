@@ -1,4 +1,4 @@
-MASTER CRAP
+X301 CRAP
 // -------------------------------------------------------------- -*- C++ -*-
 // File: C:\e\MyDevelopment\centrale sarto modif\cssrc\accueil.cpp
 // IlogViews 5 generated source file
