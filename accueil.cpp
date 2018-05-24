@@ -1,4 +1,4 @@
-Testing, Testing 123
+Testing, Testing 1234567890
 // -------------------------------------------------------------- -*- C++ -*-
 // File: C:\e\MyDevelopment\centrale sarto modif\cssrc\accueil.cpp
 // IlogViews 5 generated source file
